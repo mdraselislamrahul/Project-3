@@ -1,0 +1,231 @@
+[
+    {
+        "name": "King Size Bed Frame",
+        "images": [
+          "https://demo-morata.myshopify.com/cdn/shop/files/35_bda94efe-e8c5-4562-8647-10de38eb81ce_1920x.png?v=1702563555",
+          "https://demo-morata.myshopify.com/cdn/shop/files/32_80b0054c-fdd8-4388-8b89-275fd997a982_1920x.png?v=1702563555",
+          "https://demo-morata.myshopify.com/cdn/shop/files/36_9896b9b9-f60b-4846-a22c-5f8d18ce18f3_1920x.png?v=1702563555",
+          "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_1_7_1920x.jpg?v=1697644880"
+        ],
+        "rating": 4.7,
+        "current_price": 899.99,
+        "before_price": 1199.99,
+        "discount_price": 899.99,
+        "discount_percentage": 25,
+        "availability": "In Stock",
+        "vendor": "FurnitureHub",
+        "categories": ["Furniture", "Living Room", "Sofas"],
+        "tags": ["Modern", "3-seater", "Fabric"],
+        "list": ["5-year warranty", "Free delivery", "Customizable fabric"]
+      },
+    {
+      "name": "Blink Home Security Camera System",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/files/image-product-9_1920x.jpg?v=1702546860",
+        "https://demo-morata.myshopify.com/cdn/shop/files/image-product-11_1920x.jpg?v=1702546860",
+        "https://demo-morata.myshopify.com/cdn/shop/files/image-product-10_1920x.jpg?v=1702546860",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_1_7_1920x.jpg?v=1697644880"
+      ],
+      "rating": 4.7,
+      "current_price": 899.99,
+      "before_price": 1199.99,
+      "discount_price": 899.99,
+      "discount_percentage": 25,
+      "availability": "In Stock",
+      "vendor": "FurnitureHub",
+      "categories": ["Furniture", "Living Room", "Sofas"],
+      "tags": ["Modern", "3-seater", "Fabric"],
+      "list": ["5-year warranty", "Free delivery", "Customizable fabric"]
+    },
+    {
+      "name": "Wooden Dining Table",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/files/55_1920x.png?v=1702563441",
+        "https://demo-morata.myshopify.com/cdn/shop/files/56_1920x.png?v=1702563441",
+        "https://demo-morata.myshopify.com/cdn/shop/files/15_37f32249-fef6-4550-8760-8f83153ed15f_1920x.png?v=1702563459",
+        "https://demo-morata.myshopify.com/cdn/shop/files/24_1920x.png?v=1702563459"
+      ],
+      "rating": 4.6,
+      "current_price": 499.99,
+      "before_price": 649.99,
+      "discount_price": 499.99,
+      "discount_percentage": 23,
+      "availability": "Limited Stock",
+      "vendor": "HomeDecor",
+      "categories": ["Furniture", "Dining Room", "Tables"],
+      "tags": ["Solid Wood", "6-seater", "Oak Finish"],
+      "list": ["2-year warranty", "Easy assembly", "Stain resistant"]
+    },
+    {
+      "name": "King Size Bed Frame",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/files/1_5ae064f5-4c85-4cd0-bced-87e114378516_1920x.png?v=1702563481",
+        "https://demo-morata.myshopify.com/cdn/shop/files/7_e2b0d665-79a9-436f-b48c-5970f0ed866a_1920x.png?v=1702563481",
+        "https://demo-morata.myshopify.com/cdn/shop/files/13_41df6b55-d3ff-4161-b52d-5efb32b00149_1920x.png?v=1702563481",
+        "https://demo-morata.myshopify.com/cdn/shop/files/14_c86bada6-e7dd-4bf6-99b1-2f52c5fbc7f5_1920x.png?v=1702563481"
+      ],
+      "rating": 4.8,
+      "current_price": 699.99,
+      "before_price": 899.99,
+      "discount_price": 699.99,
+      "discount_percentage": 22,
+      "availability": "In Stock",
+      "vendor": "SleepWell",
+      "categories": ["Furniture", "Bedroom", "Beds"],
+      "tags": ["King Size", "Wooden", "Modern Design"],
+      "list": ["10-year warranty", "Free mattress", "Under-bed storage"]
+    },
+    {
+      "name": "Velvet Accent Chair",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/files/image-product-1_1920x.jpg?v=1702534930",
+        "https://demo-morata.myshopify.com/cdn/shop/files/image-product-2_1920x.jpg?v=1702534930",
+        "https://demo-morata.myshopify.com/cdn/shop/files/image-product-3_1920x.jpg?v=1702534930",
+        "https://demo-morata.myshopify.com/cdn/shop/files/image-product-4_1920x.jpg?v=1702534929"
+      ],
+      "rating": 4.5,
+      "current_price": 199.99,
+      "before_price": 279.99,
+      "discount_price": 199.99,
+      "discount_percentage": 29,
+      "availability": "In Stock",
+      "vendor": "ComfortZone",
+      "categories": ["Furniture", "Living Room", "Chairs"],
+      "tags": ["Velvet", "Accent", "Contemporary"],
+      "list": ["3-year warranty", "Free cushion", "Multiple colors"]
+    },
+    {
+      "name": "Glass Coffee Table",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/files/51.png?v=1702563576",
+        "https://demo-morata.myshopify.com/cdn/shop/files/52_1920x.png?v=1702563576",
+        "https://demo-morata.myshopify.com/cdn/shop/files/53_1920x.png?v=1702563577",
+        "https://demo-morata.myshopify.com/cdn/shop/files/54_1920x.png?v=1702563576"
+      ],
+      "rating": 4.6,
+      "current_price": 149.99,
+      "before_price": 199.99,
+      "discount_price": 149.99,
+      "discount_percentage": 25,
+      "availability": "In Stock",
+      "vendor": "FurnitureHub",
+      "categories": ["Furniture", "Living Room", "Tables"],
+      "tags": ["Glass", "Modern", "Stainless Steel Legs"],
+      "list": ["2-year warranty", "Tempered glass", "Easy to clean"]
+    },
+    {
+      "name": "Bookshelf Unit",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/files/6_041b600f-2787-4fef-9a66-f6bec8df74ac_1920x.png?v=1702563676",
+        "https://demo-morata.myshopify.com/cdn/shop/files/10_13dba692-43e8-403b-afe6-a646ceaed9f4_1920x.png?v=1702563675",
+        "https://demo-morata.myshopify.com/cdn/shop/files/16_378fa404-3ea2-41f4-b464-af1b7e971a52_1920x.png?v=1702563676",
+        "https://demo-morata.myshopify.com/cdn/shop/files/17_1920x.png?v=1702563675"
+      ],
+      "rating": 4.4,
+      "current_price": 249.99,
+      "before_price": 349.99,
+      "discount_price": 249.99,
+      "discount_percentage": 29,
+      "availability": "Limited Stock",
+      "vendor": "HomeDecor",
+      "categories": ["Furniture", "Living Room", "Storage"],
+      "tags": ["Wood", "Adjustable Shelves", "Contemporary"],
+      "list": ["3-year warranty", "Tool-free assembly", "Scratch resistant"]
+    },
+    {
+      "name": "Outdoor Patio Set",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_1_1_1920x.jpg?v=1697644880",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_1_2_1920x.jpg?v=1697644880",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_1_3_1920x.jpg?v=1697644880",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_1_5_1920x.jpg?v=1697644880"
+      ],
+      "rating": 4.7,
+      "current_price": 499.99,
+      "before_price": 699.99,
+      "discount_price": 499.99,
+      "discount_percentage": 29,
+      "availability": "In Stock",
+      "vendor": "GardenLife",
+      "categories": ["Furniture", "Outdoor", "Patio Furniture"],
+      "tags": ["Rattan", "4-piece", "Weather-resistant"],
+      "list": ["1-year warranty", "UV protection", "Easy to assemble"]
+    },
+    {
+      "name": "Wall Art Set",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_11_1_1920x.jpg?v=1697644926",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_11_2_1920x.jpg?v=1697644926",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_11_3_1920x.jpg?v=1697644926",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_3_5_1920x.jpg?v=1697644848"
+      ],
+      "rating": 4.3,
+      "current_price": 79.99,
+      "before_price": 99.99,
+      "discount_price": 79.99,
+      "discount_percentage": 20,
+      "availability": "In Stock",
+      "vendor": "ArtisticHome",
+      "categories": ["Decor", "Wall Art", "Framed Prints"],
+      "tags": ["Abstract", "3-piece", "Canvas"],
+      "list": ["Ready to hang", "Fade resistant", "Multiple sizes"]
+    },
+    {
+      "name": "Ceramic Vase Set",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_3_5_1920x.jpg?v=1697644848",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_3_4_1920x.jpg?v=1697644848",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_3_3_1920x.jpg?v=1697644848",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_3_7_1920x.jpg?v=1697644848"
+      ],
+      "rating": 4.5,
+      "current_price": 59.99,
+      "before_price": 79.99,
+      "discount_price": 59.99,
+      "discount_percentage": 25,
+      "availability": "In Stock",
+      "vendor": "DecorWorld",
+      "categories": ["Decor", "Vases", "Home Accessories"],
+      "tags": ["Ceramic", "3-piece", "Hand-painted"],
+      "list": ["Gift box included", "Dishwasher safe", "Unique design"]
+    },
+    {
+      "name": "Leather Recliner",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_8_1_1920x.jpg?v=1697644916",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_8_2_1920x.jpg?v=1697644916",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_8_3_1920x.jpg?v=1697644916",
+        "https://demo-morata.myshopify.com/cdn/shop/products/furniture_products_8_3_1920x.jpg?v=1697644916"
+      ],
+      "rating": 4.7,
+      "current_price": 799.99,
+      "before_price": 999.99,
+      "discount_price": 799.99,
+      "discount_percentage": 20,
+      "availability": "Limited Stock",
+      "vendor": "ComfortZone",
+      "categories": ["Furniture", "Living Room", "Chairs"],
+      "tags": ["Leather", "Reclining", "Manual"],
+      "list": ["5-year warranty", "Free delivery", "Ergonomic design"]
+    },
+    {
+      "name": "Area Rug 8x10",
+      "images": [
+        "https://demo-morata.myshopify.com/cdn/shop/files/33_9d2123c6-1ae6-41ce-b360-517f2703655d_1920x.png?v=1702563609",
+        "https://demo-morata.myshopify.com/cdn/shop/files/34_c5c4bcc1-b15b-4fda-9e7a-960dd03a828e_1920x.png?v=1702563609",
+        "https://demo-morata.myshopify.com/cdn/shop/files/33_9d2123c6-1ae6-41ce-b360-517f2703655d_1920x.png?v=1702563609",
+        "https://demo-morata.myshopify.com/cdn/shop/files/34_c5c4bcc1-b15b-4fda-9e7a-960dd03a828e_1920x.png?v=1702563609"
+      ],
+      "rating": 4.8,
+      "current_price": 299.99,
+      "before_price": 399.99,
+      "discount_price": 299.99,
+      "discount_percentage": 25,
+      "availability": "In Stock",
+      "vendor": "RugWorld",
+      "categories": ["Decor", "Rugs", "Area Rugs"],
+      "tags": ["Wool", "8x10", "Hand-woven"],
+      "list": ["1-year warranty", "Non-slip backing", "Stain resistant"]
+    }
+  ]
+  

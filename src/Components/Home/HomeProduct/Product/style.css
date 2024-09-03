@@ -1,0 +1,17 @@
+.imgDiv{
+    position: relative;
+    cursor: pointer;
+}
+.img2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: 1s;
+}
+.imgDiv:hover .img2{
+    visibility: visible;
+    opacity: 1;
+    transition: 1s;
+}

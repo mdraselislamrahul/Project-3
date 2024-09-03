@@ -1,0 +1,413 @@
+[
+  {
+    "name": "Apple iPhone 11 Pro 256GB Space",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_5_1_1920x.jpg?v=1697644653",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_5_2_1920x.jpg?v=1697644653",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_5_3_1920x.jpg?v=1697644653",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_5_4_1920x.jpg?v=1697644653"
+    ],
+    "rating": 4.8,
+    "current_price": 799.99,
+    "before_price": 999.99,
+    "discount_price": 799.99,
+    "discount_percentage": 20,
+    "availability": "In Stock",
+    "vendor": "Samsung",
+    "categories": ["Phones & Accessories", "Smartphones", "Android"],
+    "tags": ["5G", "128GB Storage", "Phantom Gray"],
+    "list": ["Wireless charging", "Triple camera", "Water resistant"]
+  },
+  {
+    "name": "Apple iPad Pro M1 12.9-inch",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_1_3_1920x.jpg?v=1697644606",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_1_1_1920x.jpg?v=1697644606",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_1_2_1920x.jpg?v=1697644606",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_1_4_1920x.jpg?v=1697644606"
+    ],
+    "rating": 4.9,
+    "current_price": 999.99,
+    "before_price": 1099.99,
+    "discount_price": 999.99,
+    "discount_percentage": 9,
+    "availability": "In Stock",
+    "vendor": "Apple",
+    "categories": ["Phones & Accessories", "Smartphones", "iOS"],
+    "tags": ["5G", "256GB Storage", "Sierra Blue"],
+    "list": ["ProMotion display", "LiDAR scanner", "Ceramic Shield"]
+  },
+  {
+    "name": "Apple iPad Pro M1 11-inch ",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_2_4_1920x.jpg?v=1697644616",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_2_2_1920x.jpg?v=1697644616",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_2_1_1920x.jpg?v=1697644616",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_2_4_1920x.jpg?v=1697644616"
+    ],
+    "rating": 4.7,
+    "current_price": 149.99,
+    "before_price": 199.99,
+    "discount_price": 149.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "SoundCo",
+    "categories": ["Phones & Accessories", "Headphones", "Bluetooth"],
+    "tags": ["Noise Cancelling", "True Wireless", "Waterproof"],
+    "list": ["24-hour battery life", "Touch controls", "Charging case included"]
+  },
+  {
+    "name": "Apple iPad Mini 6 Wi-Fi Cellular",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_4_5_1920x.jpg?v=1697644644",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_4_6_1920x.jpg?v=1697644644",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_4_7_1920x.jpg?v=1697644644",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_4_4_1920x.jpg?v=1697644644"
+    ],
+    "rating": 4.6,
+    "current_price": 39.99,
+    "before_price": 49.99,
+    "discount_price": 39.99,
+    "discount_percentage": 20,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Power Banks"],
+    "tags": ["10000mAh", "Fast Charging", "USB-C"],
+    "list": ["Dual USB ports", "LED indicator", "Compact design"]
+  },
+  {
+    "name": "Apple iPad Air 4 10.9-inch",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_3_6_1920x.jpg?v=1697644630",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_3_4_1920x.jpg?v=1697644630",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_3_7_1920x.jpg?v=1697644630",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_3_5_1920x.jpg?v=1697644630"
+    ],
+    "rating": 4.7,
+    "current_price": 29.99,
+    "before_price": 39.99,
+    "discount_price": 29.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["15W Fast Charging", "Qi-Certified", "Foldable"],
+    "list": [
+      "Compatible with most devices",
+      "Overcharge protection",
+      "Non-slip base"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S20 FE 8GB/256GB",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_35_1_1920x.jpg?v=1697644858",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_35_2_1920x.jpg?v=1697644859",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_35_3_1920x.jpg?v=1697644859",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_35_5_1920x.jpg?v=1697644859"
+    ],
+    "rating": 4.8,
+    "current_price": 59.99,
+    "before_price": 79.99,
+    "discount_price": 59.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "SoundCo",
+    "categories": ["Phones & Accessories", "Speakers", "Bluetooth"],
+    "tags": ["Portable", "Waterproof", "360° Sound"],
+    "list": [
+      "12-hour battery life",
+      "Built-in microphone",
+      "Pair multiple speakers"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S21 FE 8GB/128GB",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_11_1_1920x.jpg?v=1697644717",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_11_2_1920x.jpg?v=1697644717",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_11_3_1920x.jpg?v=1697644717",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_11_4_1920x.jpg?v=1697644717"
+    ],
+    "rating": 4.5,
+    "current_price": 12.99,
+    "before_price": 19.99,
+    "discount_price": 12.99,
+    "discount_percentage": 35,
+    "availability": "In Stock",
+    "vendor": "ShieldGuard",
+    "categories": ["Phones & Accessories", "Screen Protectors", "iPhone"],
+    "tags": ["Tempered Glass", "Anti-Scratch", "3-Pack"],
+    "list": ["Easy installation", "Case-friendly", "Fingerprint resistant"]
+  },
+  {
+    "name": "Magnetic Phone Mount for Car",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_6_1_1920x.jpg?v=1697644666",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_6_2_1920x.jpg?v=1697644666",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_6_3_1920x.jpg?v=1697644666",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_6_4_1920x.jpg?v=1697644666"
+    ],
+    "rating": 4.6,
+    "current_price": 14.99,
+    "before_price": 24.99,
+    "discount_price": 14.99,
+    "discount_percentage": 40,
+    "availability": "In Stock",
+    "vendor": "AutoMount",
+    "categories": ["Phones & Accessories", "Car Accessories", "Mounts"],
+    "tags": ["Magnetic", "360° Rotation", "Dashboard/Windshield"],
+    "list": ["Strong magnet", "Easy to install", "Universal compatibility"]
+  },
+  {
+    "name": "Leather Phone Case for iPhone 13",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_8_1_1920x.jpg?v=1697644686",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_8_2_1920x.jpg?v=1697644686",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_8_3_1920x.jpg?v=1697644686",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_8_4_1920x.jpg?v=1697644686"
+    ],
+    "rating": 4.7,
+    "current_price": 39.99,
+    "before_price": 49.99,
+    "discount_price": 39.99,
+    "discount_percentage": 20,
+    "availability": "In Stock",
+    "vendor": "CaseCraft",
+    "categories": ["Phones & Accessories", "Cases", "iPhone"],
+    "tags": ["Leather", "Slim", "Shockproof"],
+    "list": [
+      "Wireless charging compatible",
+      "Raised edges for screen protection",
+      "Elegant design"
+    ]
+  },
+  {
+    "name": "Dell Vostro 3888 i9 8GB 512GB ",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_13_1_1920x.jpg?v=1697644732",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_13_2_1920x.jpg?v=1697644732",
+      "usb_cable_img3.jpg",
+      "usb_cable_img4.jpg"
+    ],
+    "rating": 4.8,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Cables", "USB-C"],
+    "tags": ["3ft Length", "Fast Charging", "Durable"],
+    "list": ["Braided design", "Tangle-free", "MFi Certified"]
+  },
+  {
+    "name": "Smartwatch Series 6",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_31_1_9617e01f-65e8-464c-8e92-1f17c1002192_1920x.jpg?v=1697644886",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_31_2_0d20efe6-675b-40e7-b59d-70b1e805ab30_1920x.jpg?v=1697644886",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_31_3_ff1e8bde-3dc3-41b8-a19d-9c28a376f071_1920x.jpg?v=1697644886",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_30_2_1920x.jpg?v=1697644834"
+    ],
+    "rating": 4.9,
+    "current_price": 399.99,
+    "before_price": 499.99,
+    "discount_price": 399.99,
+    "discount_percentage": 20,
+    "availability": "In Stock",
+    "vendor": "Apple",
+    "categories": ["Phones & Accessories", "Wearables", "Smartwatches"],
+    "tags": ["GPS", "Heart Rate Monitor", "Aluminum Case"],
+    "list": ["ECG app", "Always-On Retina display", "Water resistant"]
+  },
+  {
+    "name": "Galaxy Z Fold 3 5G 256GB ",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_10_1_1920x.jpg?v=1697644706",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_10_2_1920x.jpg?v=1697644706",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_10_5_1920x.jpg?v=1697644706",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_10_6_1920x.jpg?v=1697644706"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  },
+  {
+    "name": "Bluetooth Sony HBS-FN6 Noise",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_24_1_1920x.jpg?v=1697644782",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_24_2_1920x.jpg?v=1697644782",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_24_3_1920x.jpg?v=1697644782",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_24_4_1920x.jpg?v=1697644782"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  },
+  {
+    "name": "Apple Watch Magnetic Fast Charger",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_22_1_1920x.jpg?v=1697644765",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_22_2_1920x.jpg?v=1697644766",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_22_3_1920x.jpg?v=1697644766",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_22_4_1920x.jpg?v=1697644766"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  },
+  {
+    "name": "Apple Watch Aluminum Case with Sport Loop",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_30_1_1920x.jpg?v=1697644834",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_30_2_1920x.jpg?v=1697644834",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_30_3_1920x.jpg?v=1697644834",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_31_2_1920x.jpg?v=1697644834"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  },
+  {
+    "name": "Apple Watch Aluminum Case ",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_32_1_1920x.jpg?v=1697644893",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_32_2_1920x.jpg?v=1697644893",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_32_3_1920x.jpg?v=1697644893",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_31_2_1920x.jpg?v=1697644834"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 128GB",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_7_1_1920x.jpg?v=1697644677",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_7_4_1920x.jpg?v=1697644677",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_7_2_1920x.jpg?v=1697644677",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_7_3_1920x.jpg?v=1697644677"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  },
+  {
+    "name": "Apple iPhone 13 Mini 128GB Pink",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_34_1_1920x.jpg?v=1697644904",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_34_2_1920x.jpg?v=1697644904",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_34_3_1920x.jpg?v=1697644904",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_34_4_1920x.jpg?v=1697644904"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  },
+  {
+    "name": "Apple Airpods Pro ",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_23_1_1920x.jpg?v=1697644775",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_23_5_1920x.jpg?v=1697644775",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_23_2_1920x.jpg?v=1697644775",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_23_4_1920x.jpg?v=1697644775"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max 128GB",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_9_1_1920x.jpg?v=1697644696",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_9_2_1920x.jpg?v=1697644696",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_9_3_1920x.jpg?v=1697644696",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_9_4_1920x.jpg?v=1697644696"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_29_1_1920x.jpg?v=1697644821",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_29_2_1920x.jpg?v=1697644821",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_29_3_1920x.jpg?v=1697644821",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_29_5_1920x.jpg?v=1697644821"
+    ],
+    "rating": 4.6,
+    "current_price": 19.99,
+    "before_price": 29.99,
+    "discount_price": 19.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "ChargePro",
+    "categories": ["Phones & Accessories", "Chargers", "Wireless"],
+    "tags": ["Fast Charging", "Ultra-Slim", "Qi-Certified"],
+    "list": ["LED indicator", "Case-friendly", "Overheat protection"]
+  }
+]

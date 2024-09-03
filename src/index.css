@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Button{
+    background-color: black;
+    color: aliceblue;
+    padding: 14px 30px;
+    font-weight: bold;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+  }
+.Button::before{
+    content: "";
+    height: 100%;
+    width: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #FABC3F;
+    border-radius: 5px;
+    z-index: -1;
+    transition: 1s;
+}
+.Button:hover::before{
+    width: 100%;
+}
+.imgZoom{
+    transition: 1s;
+}
+.imgZoom:hover{
+    transform: scaleY(1.1);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.imgDiv{
+    position: relative;
+    cursor: pointer;
+}
+.img2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: 1s;
+}
+.imgDiv:hover .img2{
+    visibility: visible;
+    opacity: 1;
+    transition: 1s;
+}

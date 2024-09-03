@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Stainless Steel Cookware Set",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/19_1920x.jpg?v=1697644983",
+      "https://demo-morata.myshopify.com/cdn/shop/products/15_1920x.jpg?v=1697644983",
+      "https://demo-morata.myshopify.com/cdn/shop/products/32_1920x.jpg?v=1697644983",
+      "https://demo-morata.myshopify.com/cdn/shop/products/37_f1c07ca9-960e-47b2-b4ca-6c3c2344132a_1920x.jpg?v=1697644983"
+    ],
+    "rating": 4.8,
+    "current_price": 149.99,
+    "before_price": 199.99,
+    "discount_price": 149.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "KitchenPro",
+    "categories": ["Kitchen & Tableware", "Cookware", "Sets"],
+    "tags": ["Stainless Steel", "Induction Safe", "10-Piece Set"],
+    "list": ["Dishwasher safe", "Oven safe up to 500°F", "Lifetime warranty"]
+  },
+  {
+    "name": "Ceramic Dinnerware Set",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/17_1920x.jpg?v=1697644948",
+      "https://demo-morata.myshopify.com/cdn/shop/products/28_1920x.jpg?v=1697644948",
+      "https://demo-morata.myshopify.com/cdn/shop/products/34_1920x.jpg?v=1697644948",
+      "https://demo-morata.myshopify.com/cdn/shop/products/37_1920x.jpg?v=1697644948"
+    ],
+    "rating": 4.7,
+    "current_price": 79.99,
+    "before_price": 109.99,
+    "discount_price": 79.99,
+    "discount_percentage": 27,
+    "availability": "In Stock",
+    "vendor": "HomeEssentials",
+    "categories": ["Kitchen & Tableware", "Dinnerware", "Sets"],
+    "tags": ["Ceramic", "16-Piece", "Microwave Safe"],
+    "list": ["Chip resistant", "Glossy finish", "Multiple colors available"]
+  },
+  {
+    "name": "Chef's Knife Set",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/35_1920x.jpg?v=1697644975",
+      "https://demo-morata.myshopify.com/cdn/shop/products/25_6446b900-e6c7-4fd4-a7a3-16cd05f30052_1920x.jpg?v=1697644975",
+      "https://demo-morata.myshopify.com/cdn/shop/products/36_1920x.jpg?v=1697644975",
+      "https://demo-morata.myshopify.com/cdn/shop/products/24_1920x.jpg?v=1697644948"
+    ],
+    "rating": 4.9,
+    "current_price": 99.99,
+    "before_price": 149.99,
+    "discount_price": 99.99,
+    "discount_percentage": 33,
+    "availability": "In Stock",
+    "vendor": "CutleryPro",
+    "categories": ["Kitchen & Tableware", "Cutlery", "Knife Sets"],
+    "tags": ["Stainless Steel", "5-Piece", "Ergonomic Handle"],
+    "list": ["Precision cutting", "Rust resistant", "Lifetime warranty"]
+  },
+  {
+    "name": "Nonstick Frying Pan Set",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/7_1920x.jpg?v=1697644939",
+      "https://demo-morata.myshopify.com/cdn/shop/products/13_1920x.jpg?v=1697644939",
+      "https://demo-morata.myshopify.com/cdn/shop/products/21_1920x.jpg?v=1697644939",
+      "https://demo-morata.myshopify.com/cdn/shop/products/1_1920x.jpg?v=1697644939"
+    ],
+    "rating": 4.6,
+    "current_price": 49.99,
+    "before_price": 69.99,
+    "discount_price": 49.99,
+    "discount_percentage": 29,
+    "availability": "In Stock",
+    "vendor": "KitchenPro",
+    "categories": ["Kitchen & Tableware", "Cookware", "Frying Pans"],
+    "tags": ["Nonstick", "Aluminum", "2-Piece Set"],
+    "list": ["PFOA free", "Even heat distribution", "Oven safe up to 350°F"]
+  },
+  {
+    "name": "Glass Mixing Bowl Set",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/6_489b5465-5755-4d5e-a215-152c4df87e67_1920x.jpg?v=1697644991",
+      "https://demo-morata.myshopify.com/cdn/shop/products/12_c1ba5661-e536-4a4d-b735-0c03ca679b59_1920x.jpg?v=1697644991",
+      "https://demo-morata.myshopify.com/cdn/shop/products/24_e5a4c4ac-0521-4f61-af7e-0a0b31aa8f9e_1920x.jpg?v=1697644991",
+      "https://demo-morata.myshopify.com/cdn/shop/products/25_54544880-1992-42ee-82ba-bfc8d61ed281_1920x.jpg?v=1697644991"
+    ],
+    "rating": 4.7,
+    "current_price": 34.99,
+    "before_price": 49.99,
+    "discount_price": 34.99,
+    "discount_percentage": 30,
+    "availability": "In Stock",
+    "vendor": "HomeEssentials",
+    "categories": ["Kitchen & Tableware", "Prep Tools", "Mixing Bowls"],
+    "tags": ["Glass", "3-Piece Set", "Dishwasher Safe"],
+    "list": ["Microwave safe", "Non-slip base", "Nesting design"]
+  },
+  {
+    "name": "Electric Kettle",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/12_1920x.jpg?v=1697644957",
+      "https://demo-morata.myshopify.com/cdn/shop/products/6_1920x.jpg?v=1697644957",
+      "https://demo-morata.myshopify.com/cdn/shop/products/28_7116842b-7627-4e4c-befc-95e9f762039b_1920x.jpg?v=1697644957",
+      "https://demo-morata.myshopify.com/cdn/shop/products/24_721a9b82-d474-461f-94d6-c52edba6d6f9_1920x.jpg?v=1697644957"
+    ],
+    "rating": 4.8,
+    "current_price": 29.99,
+    "before_price": 39.99,
+    "discount_price": 29.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "BrewMaster",
+    "categories": ["Kitchen & Tableware", "Appliances", "Kettles"],
+    "tags": ["Electric", "Stainless Steel", "1.7-Liter"],
+    "list": ["Auto shut-off", "Boil-dry protection", "360-degree base"]
+  },
+  {
+    "name": "Cast Iron Skillet",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/33_1920x.jpg?v=1697644970",
+      "https://demo-morata.myshopify.com/cdn/shop/products/25_af49c952-8dc8-485a-84dc-40a0b0a4828c_1920x.jpg?v=1697644970",
+      "https://demo-morata.myshopify.com/cdn/shop/products/14_1920x.jpg?v=1697644970",
+      "https://demo-morata.myshopify.com/cdn/shop/products/13_c82b36db-a55d-4c5d-bbe8-52928f6e76bc_1920x.jpg?v=1697644970"
+    ],
+    "rating": 4.9,
+    "current_price": 39.99,
+    "before_price": 59.99,
+    "discount_price": 39.99,
+    "discount_percentage": 33,
+    "availability": "Limited Stock",
+    "vendor": "CookwareMasters",
+    "categories": ["Kitchen & Tableware", "Cookware", "Skillets"],
+    "tags": ["Cast Iron", "12-Inch", "Pre-seasoned"],
+    "list": ["Oven safe", "Retains heat well", "Perfect for searing"]
+  },
+  {
+    "name": "Crystal Wine Glass Set",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/23_1920x.jpg?v=1697644932",
+      "https://demo-morata.myshopify.com/cdn/shop/products/4_1920x.jpg?v=1697644932",
+      "https://demo-morata.myshopify.com/cdn/shop/products/31_1920x.jpg?v=1697644932",
+      "https://demo-morata.myshopify.com/cdn/shop/products/25_1920x.jpg?v=1697644957"
+    ],
+    "rating": 4.7,
+    "current_price": 59.99,
+    "before_price": 79.99,
+    "discount_price": 59.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "TableArt",
+    "categories": ["Kitchen & Tableware", "Drinkware", "Wine Glasses"],
+    "tags": ["Crystal", "4-Piece Set", "Dishwasher Safe"],
+    "list": ["Lead-free", "Elegant design", "Gift boxed"]
+  },
+  {
+    "name": "Bamboo Cutting Board Set",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/9_d3e19940-8405-4c7e-abe5-8c5b35151803_1920x.jpg?v=1697645001",
+      "https://demo-morata.myshopify.com/cdn/shop/products/10_1920x.jpg?v=1697645001",
+      "https://demo-morata.myshopify.com/cdn/shop/products/38_bea2ac62-ab43-4ff5-9781-32fce394598a_1920x.jpg?v=1697645001",
+      "https://demo-morata.myshopify.com/cdn/shop/products/26_cddd82dd-287b-421b-9bca-c037c8634fce_1920x.jpg?v=1697645001"
+    ],
+    "rating": 4.6,
+    "current_price": 29.99,
+    "before_price": 39.99,
+    "discount_price": 29.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "KitchenCraft",
+    "categories": ["Kitchen & Tableware", "Prep Tools", "Cutting Boards"],
+    "tags": ["Bamboo", "3-Piece Set", "Eco-friendly"],
+    "list": ["Knife-friendly surface", "Non-slip edges", "Juice grooves"]
+  },
+  {
+    "name": "Stoneware Baking Dish Set",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/29_1920x.jpg?v=1697644962",
+      "https://demo-morata.myshopify.com/cdn/shop/products/30_1920x.jpg?v=1697644962",
+      "https://demo-morata.myshopify.com/cdn/shop/products/20_57847580-5e54-48f4-b6b6-ab62508fb2b0_1920x.jpg?v=1697645001",
+      "baking_dish_set_img4.jpg"
+    ],
+    "rating": 4.8,
+    "current_price": 49.99,
+    "before_price": 69.99,
+    "discount_price": 49.99,
+    "discount_percentage": 29,
+    "availability": "In Stock",
+    "vendor": "HomeEssentials",
+    "categories": ["Kitchen & Tableware", "Cookware", "Baking Dishes"],
+    "tags": ["Stoneware", "3-Piece Set", "Oven Safe"],
+    "list": ["Microwave safe", "Scratch resistant", "Even heat distribution"]
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Laptop X13",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/files/6_33c2c0b8-765e-416f-8efd-1e16e4466ea6_1920x.png?v=1700705774",
+      "https://demo-morata.myshopify.com/cdn/shop/files/1_0308a046-c578-4680-8d98-8e15046e7847_1920x.png?v=1700705774",
+      "https://demo-morata.myshopify.com/cdn/shop/files/2_ad77debc-8e1b-42c4-99b5-d45b777f8f36_1920x.png?v=1700705775",
+      "https://demo-morata.myshopify.com/cdn/shop/files/2_ad77debc-8e1b-42c4-99b5-d45b777f8f36_1920x.png?v=1700705775"
+    ],
+    "rating": 4.5,
+    "current_price": 1199.99,
+    "before_price": 1399.99,
+    "discount_price": 1199.99,
+    "discount_percentage": 14,
+    "availability": "In Stock",
+    "vendor": "TechStore",
+    "categories": ["Computers", "Laptops", "Ultrabooks"],
+    "tags": ["Intel i7", "16GB RAM", "512GB SSD"],
+    "list": ["1-year warranty", "Free shipping", "30-day return policy"]
+  },
+  {
+    "name": "Gaming PC Rig",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_12_1_1920x.jpg?v=1697644728",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_12_2_1920x.jpg?v=1697644728",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_12_3_1920x.jpg?v=1697644728",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_12_4_1920x.jpg?v=1697644728"
+    ],
+    "rating": 4.8,
+    "current_price": 1599.99,
+    "before_price": 1899.99,
+    "discount_price": 1599.99,
+    "discount_percentage": 16,
+    "availability": "Limited Stock",
+    "vendor": "GamerHub",
+    "categories": ["Computers", "Desktops", "Gaming PCs"],
+    "tags": ["AMD Ryzen 9", "32GB RAM", "1TB SSD"],
+    "list": ["Custom cooling system", "Free gaming mouse", "RGB lighting"]
+  },
+  {
+    "name": "MacBook Air",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_14_1_1920x.jpg?v=1697644737",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_14_2_1920x.jpg?v=1697644737",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_12_3_1920x.jpg?v=1697644728",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_12_5_1920x.jpg?v=1697644728"
+    ],
+    "rating": 4.7,
+    "current_price": 999.99,
+    "before_price": 1099.99,
+    "discount_price": 999.99,
+    "discount_percentage": 9,
+    "availability": "In Stock",
+    "vendor": "Apple Store",
+    "categories": ["Computers", "Laptops", "MacBooks"],
+    "tags": ["M1 Chip", "8GB RAM", "256GB SSD"],
+    "list": ["1-year AppleCare", "Free engraving", "Touch ID"]
+  },
+  {
+    "name": "External Hard Drive 1TB",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_15_1_1920x.jpg?v=1697644741",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_15_2_1920x.jpg?v=1697644741",
+      "ext_hdd_1tb_img3.jpg",
+      "ext_hdd_1tb_img4.jpg"
+    ],
+    "rating": 4.3,
+    "current_price": 59.99,
+    "before_price": 79.99,
+    "discount_price": 59.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "StorageSolutions",
+    "categories": ["Accessories", "Storage Devices", "External Hard Drives"],
+    "tags": ["1TB", "USB 3.0", "Portable"],
+    "list": ["2-year warranty", "Shock-resistant case", "Plug-and-play"]
+  },
+  {
+    "name": "Wireless Mouse",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_16_1_1920x.jpg?v=1697644745",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_16_2_1920x.jpg?v=1697644745",
+      "wireless_mouse_img3.jpg",
+      "wireless_mouse_img4.jpg"
+    ],
+    "rating": 4.6,
+    "current_price": 29.99,
+    "before_price": 39.99,
+    "discount_price": 29.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "GadgetWorld",
+    "categories": ["Accessories", "Input Devices", "Mice"],
+    "tags": ["Wireless", "Ergonomic", "Rechargeable"],
+    "list": ["1-year warranty", "USB-C charging", "Silent clicks"]
+  },
+  {
+    "name": "Gaming Keyboard",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_17_1_1920x.jpg?v=1697644749",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_17_2_1920x.jpg?v=1697644749",
+      "gaming_keyboard_img3.jpg",
+      "gaming_keyboard_img4.jpg"
+    ],
+    "rating": 4.7,
+    "current_price": 89.99,
+    "before_price": 119.99,
+    "discount_price": 89.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "GamerHub",
+    "categories": ["Accessories", "Input Devices", "Keyboards"],
+    "tags": ["Mechanical", "RGB Lighting", "Programmable Keys"],
+    "list": ["2-year warranty", "Detachable wrist rest", "Anti-ghosting keys"]
+  },
+  {
+    "name": "Logitech G203 Wired 8000 DPI For PC/Mac",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_25_1_1920x.jpg?v=1697644794",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_25_2.jpg?v=1697644794",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_25_3.jpg?v=1697644794",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_25_4.jpg?v=1697644794"
+    ],
+    "rating": 4.5,
+    "current_price": 249.99,
+    "before_price": 299.99,
+    "discount_price": 249.99,
+    "discount_percentage": 17,
+    "availability": "In Stock",
+    "vendor": "DisplayWorld",
+    "categories": ["Computers", "Monitors", "LED Monitors"],
+    "tags": ["27 inch", "4K UHD", "Adjustable Stand"],
+    "list": ["3-year warranty", "Blue light filter", "VESA mount"]
+  },
+  {
+    "name": "Logitech G304 Lightspeed Wireless 12000 DPI",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_26_1_1920x.jpg?v=1697644800",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_26_2_1920x.jpg?v=1697644800",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_26_3_1920x.jpg?v=1697644800",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_25_6_1920x.jpg?v=1697644794"
+    ],
+    "rating": 4.2,
+    "current_price": 149.99,
+    "before_price": 199.99,
+    "discount_price": 149.99,
+    "discount_percentage": 25,
+    "availability": "In Stock",
+    "vendor": "OfficeSupplies",
+    "categories": ["Office Equipment", "Printers", "All-in-One Printers"],
+    "tags": ["Wireless", "Duplex Printing", "Scanner"],
+    "list": ["1-year warranty", "Ink subscription", "Mobile printing"]
+  },
+  {
+    "name": "Logitech G903 Lightspeed Wireless Gaming Mouse",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_27_1_1920x.jpg?v=1697644806",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_27_2_1920x.jpg?v=1697644806",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_27_3_1920x.jpg?v=1697644806",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_25_5_1920x.jpg?v=1697644794"
+    ],
+    "rating": 4.6,
+    "current_price": 199.99,
+    "before_price": 249.99,
+    "discount_price": 199.99,
+    "discount_percentage": 20,
+    "availability": "In Stock",
+    "vendor": "NetGear",
+    "categories": ["Networking", "Routers", "Mesh Systems"],
+    "tags": ["Tri-Band", "Whole Home Coverage", "Parental Controls"],
+    "list": ["2-year warranty", "App control", "Easy setup"]
+  },
+  {
+    "name": "HD Webcam",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_18_1_1920x.jpg?v=1697644752",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_18_2_1920x.jpg?v=1697644752",
+      "webcam_hd_img3.jpg",
+      "webcam_hd_img4.jpg"
+    ],
+    "rating": 4.4,
+    "current_price": 69.99,
+    "before_price": 89.99,
+    "discount_price": 69.99,
+    "discount_percentage": 22,
+    "availability": "In Stock",
+    "vendor": "GadgetWorld",
+    "categories": ["Accessories", "Cameras", "Webcams"],
+    "tags": ["1080p HD", "Autofocus", "Built-in Microphone"],
+    "list": ["1-year warranty", "Plug-and-play", "Privacy shutter"]
+  },
+  {
+    "name": "MacBook Air M1 2020 8GB 256GB/7-Core GPU",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_19_1_1920x.jpg?v=1697644756",
+      "https://demo-morata.myshopify.com/cdn/shop/products/products_19_2_1920x.jpg?v=1697644756",
+      "ssd_1tb_img3.jpg",
+      "ssd_1tb_img4.jpg"
+    ],
+    "rating": 4.8,
+    "current_price": 119.99,
+    "before_price": 149.99,
+    "discount_price": 119.99,
+    "discount_percentage": 20,
+    "availability": "In Stock",
+    "vendor": "StorageSolutions",
+    "categories": ["Storage Devices", "Internal Storage", "SSDs"],
+    "tags": ["1TB", "NVMe", "High Speed"],
+    "list": ["3-year warranty", "Installation guide", "Data migration software"]
+  }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Classic Denim Jacket",
+        "images": [
+            "https://demo-morata.myshopify.com/cdn/shop/files/25_f1e8bff8-1979-4dcc-8799-6dcf93d0aa3a_1920x.jpg?v=1701155168",
+            "https://demo-morata.myshopify.com/cdn/shop/files/24_3ba9ac75-fe31-4b0d-92a7-dcd390737c1c_1920x.jpg?v=1701155169",
+            "https://demo-morata.myshopify.com/cdn/shop/files/22_e1e1c642-eadd-43b7-913f-98f8fe8de5e0_1920x.jpg?v=1701155169",
+            "https://demo-morata.myshopify.com/cdn/shop/files/23_7fc556ed-51df-4db5-82ca-eee4187ffd79_1920x.jpg?v=1701155169"
+        ],
+        "rating": 4.7,
+        "current_price": 49.99,
+        "before_price": 69.99,
+        "discount_price": 20.00,
+        "discount_percentage": 28.6,
+        "availability": "In Stock",
+        "vendor": "FashionCo",
+        "categories": ["Jackets", "Denim"],
+        "tags": ["Casual", "Blue", "Unisex", "Outerwear"]
+    },
+    {
+        "name": "Leather Biker Jacket",
+        "images": [
+            "https://demo-morata.myshopify.com/cdn/shop/files/21_610589d8-1e1e-4e26-97de-59fc93af1207_1920x.jpg?v=1701155056",
+            "https://demo-morata.myshopify.com/cdn/shop/files/22_d55bf36a-6706-4c49-b562-3a3d48756af0_1920x.jpg?v=1701155055",
+            "https://demo-morata.myshopify.com/cdn/shop/files/23_2e3f8c07-d78e-4ab1-9145-c6dc3fc4a22b_1920x.jpg?v=1701155055",
+            "https://demo-morata.myshopify.com/cdn/shop/files/24_72c82db2-0885-43e4-850d-ab901f911bf2_1920x.jpg?v=1701155055"
+        ],
+        "rating": 4.8,
+        "current_price": 199.99,
+        "before_price": 249.99,
+        "discount_price": 50.00,
+        "discount_percentage": 20.0,
+        "availability": "Limited Stock",
+        "vendor": "Urban Riders",
+        "categories": ["Jackets", "Leather"],
+        "tags": ["Edgy", "Black", "Men", "Outerwear"]
+    },
+    {
+        "name": "Cotton V-Neck T-Shirt",
+        "images": [
+            "https://demo-morata.myshopify.com/cdn/shop/files/43_1920x.png?v=1700708462",
+            "https://demo-morata.myshopify.com/cdn/shop/files/44_1920x.png?v=1700708462",
+            "https://demo-morata.myshopify.com/cdn/shop/files/7_89a35699-4fc3-4491-bae7-1d344aff247a_1920x.png?v=1700708466",
+            "https://demo-morata.myshopify.com/cdn/shop/files/8_b02c3bf6-8513-4822-b882-104417eb6f45_1920x.png?v=1700708466"
+        ],
+        "rating": 4.4,
+        "current_price": 15.99,
+        "before_price": 25.99,
+        "discount_price": 10.00,
+        "discount_percentage": 38.5,
+        "availability": "In Stock",
+        "vendor": "Basics Apparel",
+        "categories": ["T-Shirts", "Cotton"],
+        "tags": ["Casual", "White", "Unisex", "Summer"]
+    },
+    {
+        "name": "Slim Fit Chinos",
+        "images": [
+            "https://demo-morata.myshopify.com/cdn/shop/files/11_7c9bf96c-2e9c-4d78-8608-6c2017090b07_1920x.png?v=1700708443",
+            "https://demo-morata.myshopify.com/cdn/shop/files/12_38bd8da8-953c-4d93-b72c-dade9911df8f_1920x.png?v=1700708443",
+            "https://demo-morata.myshopify.com/cdn/shop/files/7_3ba9b301-dab9-44e1-946d-31e4681d3c05_1920x.png?v=1700708448",
+            "https://demo-morata.myshopify.com/cdn/shop/files/8_79579632-2162-4975-9f0c-39f8c74fac14_1920x.png?v=1700708449"
+        ],
+        "rating": 4.6,
+        "current_price": 35.99,
+        "before_price": 49.99,
+        "discount_price": 14.00,
+        "discount_percentage": 28.0,
+        "availability": "In Stock",
+        "vendor": "Modern Menswear",
+        "categories": ["Pants", "Chinos"],
+        "tags": ["Smart Casual", "Beige", "Men", "Office Wear"]
+    },
+    {
+        "name": "Floral Summer Dress",
+        "images": [
+            "https://demo-morata.myshopify.com/cdn/shop/files/10_e8b00f09-5406-4e46-b62a-e5c2aee74afa_1920x.png?v=1700708407",
+            "https://demo-morata.myshopify.com/cdn/shop/files/11_2c114db5-db40-41ce-86e5-1773ceb160e3_1920x.png?v=1700708407",
+            "https://demo-morata.myshopify.com/cdn/shop/files/12_1e6fbbfd-0cd7-471a-ba8d-67c5d533f7b2_1920x.png?v=1700708407",
+            "https://demo-morata.myshopify.com/cdn/shop/files/9_147fd6e6-27c0-4915-85cc-d0f56fbd92bd_1920x.png?v=1700708409"
+        ],
+        "rating": 4.5,
+        "current_price": 29.99,
+        "before_price": 39.99,
+        "discount_price": 10.00,
+        "discount_percentage": 25.0,
+        "availability": "In Stock",
+        "vendor": "Spring Fashions",
+        "categories": ["Dresses", "Summer"],
+        "tags": ["Casual", "Floral", "Women", "Daytime"]
+    },
+    {
+        "name": "Wool Blend Overcoat",
+        "images": [
+            "https://demo-morata.myshopify.com/cdn/shop/files/8_51f29a14-2092-45c3-8868-7152edb11781_1920x.png?v=1700708393",
+            "https://demo-morata.myshopify.com/cdn/shop/files/9_e5cb58fe-3661-488a-8bb4-75d6c0d3eb86_1920x.png?v=1700708393",
+            "https://demo-morata.myshopify.com/cdn/shop/files/10_2cea3fa3-1914-418d-94e2-cd9d39f54c44_1920x.png?v=1700708393",
+            "https://demo-morata.myshopify.com/cdn/shop/files/11_f6a3e243-6a2a-4fe8-88ec-bd6213ecf018_1920x.png?v=1700708393"
+        ],
+        "rating": 4.9,
+        "current_price": 120.00,
+        "before_price": 160.00,
+        "discount_price": 40.00,
+        "discount_percentage": 25.0,
+        "availability": "In Stock",
+        "vendor": "Classic Coats",
+        "categories": ["Coats", "Winter"],
+        "tags": ["Formal", "Grey", "Men", "Outerwear"]
+    },
+    {
+        "name": "Running Shoes",
+        "images": [
+            "https://demo-morata.myshopify.com/cdn/shop/files/9_9699f8ab-58e6-4b1b-8e0b-d563ce6ae809_1920x.png?v=1700708377",
+            "https://demo-morata.myshopify.com/cdn/shop/files/10_ac617662-2868-40bb-8025-0944b7d48f5c_1920x.png?v=1700708376",
+            "https://demo-morata.myshopify.com/cdn/shop/files/11_1920x.png?v=1700708377",
+            "https://demo-morata.myshopify.com/cdn/shop/files/12_1920x.png?v=1700708377"
+        ],
+        "rating": 4.7,
+        "current_price": 89.99,
+        "before_price": 119.99,
+        "discount_price": 30.00,
+        "discount_percentage": 25.0,
+        "availability": "Limited Stock",
+        "vendor": "Sports Gear",
+        "categories": ["Shoes", "Sports"],
+        "tags": ["Athletic", "Black", "Unisex", "Running"]
+    },
+    {
+        "name": "Silk Scarf",
+        "images": [
+            "https://demo-morata.myshopify.com/cdn/shop/files/7_1920x.png?v=1700708362",
+            "https://demo-morata.myshopify.com/cdn/shop/files/8_1920x.png?v=1700708362",
+            "https://demo-morata.myshopify.com/cdn/shop/files/9_1920x.png?v=1700708362",
+            "https://demo-morata.myshopify.com/cdn/shop/files/10_1920x.png?v=1700708362"
+        ],
+        "rating": 4.3,
+        "current_price": 24.99,
+        "before_price": 34.99,
+        "discount_price": 10.00,
+        "discount_percentage": 28.6,
+        "availability": "In Stock",
+        "vendor": "Luxury Accessories",
+        "categories": ["Accessories", "Scarves"],
+        "tags": ["Elegant", "Red", "Women", "Winter"]
+    }
+]

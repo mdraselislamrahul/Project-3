@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Blink Home Security Camera System",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/files/22_1920x.jpg?v=1700297236",
+      "https://demo-morata.myshopify.com/cdn/shop/files/22-22_1920x.jpg?v=1700297236",
+      "https://demo-morata.myshopify.com/cdn/shop/files/23_dd5bba89-d17c-48c5-a08a-b65685aed3c7_1920x.jpg?v=1700297237",
+      "https://demo-morata.myshopify.com/cdn/shop/files/23-23_1920x.jpg?v=1700297236"
+    ],
+    "rating": 4.7,
+    "current_price": 799.99,
+    "before_price": 999.99,
+    "discount_price": 799.99,
+    "discount_percentage": 20,
+    "availability": "In Stock",
+    "vendor": "MobileWorld",
+    "categories": ["Consumer Electronics", "Mobile Phones", "Smartphones"],
+    "tags": ["128GB", "5G", "Triple Camera"],
+    "list": ["1-year warranty", "Fast charging", "Water resistant"]
+  },
+  {
+    "name": "Blink Home Security Camera System",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/files/25_755f87be-81e3-495d-b26d-26b3ace6ac3c_1920x.jpg?v=1700297329",
+      "https://demo-morata.myshopify.com/cdn/shop/files/24_f64db4b2-180f-49a2-a12a-7a9f470cdaf5_1920x.jpg?v=1700297329",
+      "https://demo-morata.myshopify.com/cdn/shop/files/23-23_81abb988-4c49-4805-b926-1444c68f9abc_1920x.jpg?v=1700297329",
+      "https://demo-morata.myshopify.com/cdn/shop/files/25-25_1920x.jpg?v=1700297329"
+    ],
+    "rating": 4.6,
+    "current_price": 249.99,
+    "before_price": 299.99,
+    "discount_price": 249.99,
+    "discount_percentage": 17,
+    "availability": "In Stock",
+    "vendor": "SoundMaster",
+    "categories": ["Consumer Electronics", "Audio", "Headphones"],
+    "tags": ["Wireless", "Active Noise Cancelling", "Over-Ear"],
+    "list": ["2-year warranty", "20-hour battery life", "Bluetooth 5.0"]
+  },
+  {
+    "name": "4K Smart TV 55 inch",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/files/6_33c2c0b8-765e-416f-8efd-1e16e4466ea6_1920x.png?v=1700705774",
+      "https://demo-morata.myshopify.com/cdn/shop/files/1_0308a046-c578-4680-8d98-8e15046e7847_1920x.png?v=1700705774",
+      "https://demo-morata.myshopify.com/cdn/shop/files/2_ad77debc-8e1b-42c4-99b5-d45b777f8f36_1920x.png?v=1700705775",
+      "https://demo-morata.myshopify.com/cdn/shop/files/3_0403d291-f25d-41fe-a804-a28666cfde55_1920x.png?v=1700705775"
+    ],
+    "rating": 4.8,
+    "current_price": 599.99,
+    "before_price": 799.99,
+    "discount_price": 599.99,
+    "discount_percentage": 25,
+    "availability": "Limited Stock",
+    "vendor": "TVWorld",
+    "categories": ["Consumer Electronics", "TVs", "Smart TVs"],
+    "tags": ["55 inch", "4K UHD", "HDR"],
+    "list": ["3-year warranty", "Voice control", "Streaming apps"]
+  },
+  {
+    "name": "Blink Home Security Camera System",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/files/1_1920x.png?v=1700705659",
+      "https://demo-morata.myshopify.com/cdn/shop/files/2_1920x.png?v=1700705659",
+      "https://demo-morata.myshopify.com/cdn/shop/files/3_1920x.png?v=1700705659",
+      "https://demo-morata.myshopify.com/cdn/shop/files/4_1920x.png?v=1700705659"
+    ],
+    "rating": 4.5,
+    "current_price": 99.99,
+    "before_price": 129.99,
+    "discount_price": 99.99,
+    "discount_percentage": 23,
+    "availability": "In Stock",
+    "vendor": "SoundMaster",
+    "categories": ["Consumer Electronics", "Audio", "Speakers"],
+    "tags": ["Portable", "Waterproof", "Bluetooth 5.0"],
+    "list": ["1-year warranty", "12-hour battery life", "360° sound"]
+  },
+  {
+    "name": "Smartwatch Series 6",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/files/5_d08ed3a0-c617-4633-9f7a-df5bc8fc15c0_1920x.png?v=1700705720",
+      "https://demo-morata.myshopify.com/cdn/shop/files/4_0aef3c73-c464-4f48-b1a4-4a949b6179a5_1920x.png?v=1700705723",
+      "https://demo-morata.myshopify.com/cdn/shop/files/2_26b7f0ee-c6cd-434b-9655-cf8701db5f6a_1920x.png?v=1700705726",
+      "https://demo-morata.myshopify.com/cdn/shop/files/4_6ffba4b5-dac7-4177-b991-ee9142d0b791_1920x.png?v=1700705733"
+    ],
+    "rating": 4.7,
+    "current_price": 399.99,
+    "before_price": 499.99,
+    "discount_price": 399.99,
+    "discount_percentage": 20,
+    "availability": "In Stock",
+    "vendor": "GadgetStore",
+    "categories": ["Consumer Electronics", "Wearables", "Smartwatches"],
+    "tags": ["GPS", "Heart Rate Monitor", "Water Resistant"],
+    "list": ["1-year warranty", "Customizable watch faces", "Sleep tracking"]
+  },
+  {
+    "name": "Tablet Pro 11-inch",
+    "images": [
+      "https://demo-morata.myshopify.com/cdn/shop/files/3_db6ec5fd-8699-46a8-bbc7-cf1bb7b178b5_1920x.png?v=1700705702",
+      "https://demo-morata.myshopify.com/cdn/shop/files/4_a06f364d-c560-4109-a08b-659438de5d79_1920x.png?v=1700705702",
+      "https://demo-morata.myshopify.com/cdn/shop/files/5_1920x.png?v=1700705702",
+      "https://demo-morata.myshopify.com/cdn/shop/files/6_1920x.png?v=1700705702"
+    ],
+    "rating": 4.6,
+    "current_price": 699.99,
+    "before_price": 899.99,
+    "discount_price": 699.99,
+    "discount_percentage": 22,
+    "availability": "Limited Stock",
+    "vendor": "TabletWorld",
+    "categories": ["Consumer Electronics", "Tablets", "Pro Tablets"],
+    "tags": ["128GB", "Wi-Fi", "Face ID"],
+    "list": ["2-year warranty", "Apple Pencil support", "Liquid Retina display"]
+  }
+]
